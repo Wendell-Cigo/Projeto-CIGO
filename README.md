@@ -7,13 +7,13 @@ Este repositório é destinado aos colaboradores e estudantes da empresa CIGO pa
 1. Crie uma pasta com **seu nome completo** (ou nome de usuário) na raiz do repositório.
 2. Dentro dessa pasta, adicione o(s) projeto(s) que você está desenvolvendo.
 3. Certifique-se de seguir a estrutura abaixo:
-
+```
 Projeto-CIGO/
 ├── Nome-Sobrenome/
 │ ├── nome-do-projeto/
 │ │ ├── arquivos-do-projeto
 │ │ └── README.md (opcional, mas recomendado)
-
+```
 
 ## Regras
 
@@ -23,12 +23,12 @@ Projeto-CIGO/
 - Sempre que possível, inclua um `README.md` dentro do seu projeto explicando a proposta, tecnologias utilizadas e instruções de uso.
 
 ## Exemplo
-
+```
 Projeto-CIGO/
 ├── Joao-Silva/
 │ ├── sistema-controle-estoque/
 │ └── app-manutencao-veiculos/
-
+```
 
 ## Dúvidas
 
