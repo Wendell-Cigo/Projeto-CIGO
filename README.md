@@ -1,34 +1,39 @@
 # Projeto-CIGO
 
-Este repositório é destinado aos colaboradores e estudantes da empresa CIGO para organização e acompanhamento dos projetos individuais em desenvolvimento.
+Este repositório é destinado aos colaboradores e estudantes da empresa CIGO para o desenvolvimento colaborativo de um projeto principal.
 
-## Como usar este repositório
+## Estrutura do Repositório
 
-1. Crie uma pasta com **seu nome completo** (ou nome de usuário) na raiz do repositório.
-2. Dentro dessa pasta, adicione o(s) projeto(s) que você está desenvolvendo.
-3. Certifique-se de seguir a estrutura abaixo:
+- O foco principal deste repositório é o **desenvolvimento conjunto de um único projeto**.
+- Todos devem contribuir diretamente nesse projeto, seguindo as boas práticas de versionamento e colaboração.
+- Caso algum colaborador deseje desenvolver algo de forma separada (teste, funcionalidade experimental, estudo etc.), ainda é permitido criar uma pasta com seu nome.
+
+### Estrutura recomendada
+
 ```
 Projeto-CIGO/
-├── Nome-Sobrenome/
-│ ├── nome-do-projeto/
-│ │ ├── arquivos-do-projeto
-│ │ └── README.md (opcional)
+├── projeto-principal/
+│ ├── arquivos-do-projeto
+│ └── README.md
+├── Nome-Sobrenome/ (opcional)
+│ └── projeto-individual/
+│ └── arquivos-do-projeto
 ```
+
+## Como contribuir
+
+1. Faça um fork ou clone do repositório.
+2. Crie uma branch descritiva para sua alteração (ex: `feat/cadastro-usuarios`).
+3. Faça suas alterações com mensagens de commit claras.
+4. Submeta um Pull Request para revisão.
+5. Aguarde a aprovação antes do merge na branch principal (`main`).
 
 ## Regras
 
-- Cada colaborador deve manter apenas sua própria pasta.
-- Não altere nem exclua pastas de outros usuários.
-- Commits devem ter mensagens claras e objetivas.
-- Sempre que possível, inclua um `README.md` dentro do seu projeto explicando a proposta, tecnologias utilizadas e instruções de uso.
-
-## Exemplo
-```
-Projeto-CIGO/
-├── Joao-Silva/
-│ ├── sistema-controle-estoque/
-│ └── app-manutencao-veiculos/
-```
+- Contribua sempre com respeito às mudanças já existentes.
+- Evite sobrescrever ou remover o trabalho de outras pessoas.
+- Utilize `README.md` em subpastas quando necessário, explicando a função do conteúdo.
+- Mantenha o repositório organizado.
 
 ## Dúvidas
 
