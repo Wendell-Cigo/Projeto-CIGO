@@ -12,7 +12,7 @@ Projeto-CIGO/
 ├── Nome-Sobrenome/
 │ ├── nome-do-projeto/
 │ │ ├── arquivos-do-projeto
-│ │ └── README.md (opcional, mas recomendado)
+│ │ └── README.md (opcional)
 ```
 
 ## Regras
